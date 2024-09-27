@@ -25,7 +25,7 @@ const DuckForm = () => {
                     placeholder='What does your duck say?'
                     className='input input-bordered w-full'
                 />
-                <Button type='submit' color='btn-secondary' text='Add duck' />
+                <Button type='submit' text='Add duck' color='btn-secondary' />
                 {/* <button type='submit' className='btn btn-secondary'>
                     Add duck
                 </button> */}
